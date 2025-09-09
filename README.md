@@ -28,6 +28,7 @@ options:
 ```
 ---
 
+![Learn](images/3.png?raw=true)
 ![Score](images/1.png?raw=true)
 ![Score](images/2.png?raw=true)
 ![Demo](images/1.gif?raw=true)
