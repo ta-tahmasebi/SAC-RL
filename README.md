@@ -41,7 +41,7 @@ options:
     </td>
   </tr>
 </table>
----
+
 <table width="100%">
   <tr>
     <td width="33%">
