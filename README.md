@@ -27,13 +27,42 @@ options:
   --fixed_alpha
 ```
 ---
-
-![Learn](images/3.png?raw=true)
-![Score](images/1.png?raw=true)
-![Score](images/2.png?raw=true)
-![Demo](images/1.gif?raw=true)
-![Demo](images/2.gif?raw=true)
-![Demo](images/6.gif?raw=true)
-![Demo](images/3.gif?raw=true)
-![Demo](images/4.gif?raw=true)
-![Demo](images/5.gif?raw=true)
+## Demo
+<table width="100%">
+  <tr>
+    <td width="33%">
+      <img src="images/3.png?raw=true" alt="Learn" width="100%">
+    </td>
+    <td width="33%">
+      <img src="images/1.png?raw=true" alt="Score" width="100%">
+    </td>
+    <td width="33%">
+      <img src="images/2.png?raw=true" alt="Score" width="100%">
+    </td>
+  </tr>
+</table>
+---
+<table width="100%">
+  <tr>
+    <td width="33%">
+      <video src="https://github.com/user-attachments/assets/85caa14a-83f8-47e9-b707-d59fff0da897" width="100%" controls></video>
+    </td>
+    <td width="33%">
+      <video src="https://github.com/user-attachments/assets/61f68d6d-ee64-4026-9fcf-f4ea1a711224" width="100%" controls></video>
+    </td>
+    <td width="33%">
+      <video src="https://github.com/user-attachments/assets/2f9e1a6e-e378-488b-91ed-e87c68370ae2" width="100%" controls></video>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%">
+      <video src="https://github.com/user-attachments/assets/18e72682-ea92-4fbe-a492-1074723e9436" width="100%" controls></video>
+    </td>
+    <td width="33%">
+      <video src="https://github.com/user-attachments/assets/4b0875d2-6b8c-44b8-99d1-0657f1d5f086" width="100%" controls></video>
+    </td>
+    <td width="33%">
+      <video src="https://github.com/user-attachments/assets/0ab9726b-de3a-4879-8417-f89a6c8e176a" width="100%" controls></video>
+    </td>
+  </tr>
+</table>
